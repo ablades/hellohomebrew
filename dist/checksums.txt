@@ -1,1 +1,1 @@
-3297e0cf0d5ecbc548d5468bba82df76e692720c8946fdd776f1551c737ab665  hellohomebrew_v0.0.0-next_macOS-64bit.tar.gz
+7d0d396f5041f33b557e0939298c35290acc0cdf8ea59c6ef30e77a6df14dc3a  hellohomebrew_v1.0.1-next_macOS-64bit.tar.gz
